@@ -1,0 +1,31 @@
+Different shells contain various symbols such as a $ at the beggining of the line 
+A shell instructs a user that is ready to recive input
+PWD stands for print working directory
+The location of a directory or file is called a path
+PWD lets you print the directory in command line
+Linux is organized by a hierarchical directory tree
+There are two paths called directory paths and realative paths
+A CD changes a directory to naviagte in a folder
+A LS list all the directories and content in a file
+ls-t sorts the directories by newest first
+ls-r reveres the order of directories when sorting or listing them 
+The touch command allows to create anew file
+The file command shows you what type of content the file has
+A cat command shows you all the content in a file
+The cat command can also be used to show the content in multiple files
+The cat command is used to view the content in smaller files
+The less command is used to view the content in larger files
+The up arrow lets you see previously entered commands
+You can use the clear command to cleanup the terminal
+CP command allows you to copy files, directories, and wildcards
+The CP can let you copy files to different directories
+r-flag can repeatedly copy files and directories
+The mv command lets you move one or multilple files and rename files
+mkdir creates one or muiltiple directories
+The rm command removes files and directories
+The find command lets you search and locate directories 
+The help command contains assistance for commands in bash such as echo, pwd, and logout
+You can use the man command to view more information about commands
+The whatis command gives you a small explaination of what a command does
+An alias command allows you to shorten a long command and is used as a tool o so you don't type commands repatively 
+An exit commands allows you to exit an shell. 
